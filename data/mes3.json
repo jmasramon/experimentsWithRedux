@@ -1,0 +1,185 @@
+{
+  "items": [
+    {
+      "time": 1465312812356,
+      "frame": "d;@@ -38010,690 +38010,8 @@\n %0A%0A%0A%3C\n-div id=%22gipqqmiaxbxldjslnmistbwaswconpbiarai%22 title=%22Click to dismiss alert bubble%22 style=%22left: 20px !important; bottom: 15px !important; cursor: pointer; background: rgb(51, 0, 51) !important;%22%3E%3Cdiv style=%22background: rgb(51, 0, 51) !important;%22%3E%3Ca href=%22#%22 id=%22gipqqmiaxbxldjslnmistbwaswconpbiarai-gear%22 title=%22Click to configure alert bubble%22 style=%22left: 0px !important; bottom: 0px !important; border-top-right-radius: 3px !important; border-bottom-left-radius: 3px !important;%22%3E&nbsp;%3C/a%3E%3Cspan class=%22gipqqmiaxbxldjslnmistbwaswconpbiarai-blocked%22%3EGoogle Analytics%3C/span%3E%3Cbr%3E%3Cspan class=%22gipqqmiaxbxldjslnmistbwaswconpbiarai-blocked%22%3EGoogle Tag Manager%3C/span%3E%3Cbr%3E%3C/div%3E%3C/div%3E%3C\n /bod\n",
+      "events": [
+        {
+          "type": 8,
+          "time": 1465312812356,
+          "data": [
+            {
+              "x": 1219,
+              "y": 396,
+              "t": 1465312810630.0
+            },
+            {
+              "x": 1443,
+              "y": 254,
+              "t": 1465312810682.0
+            },
+            {
+              "x": 1520,
+              "y": 195,
+              "t": 1465312810732.0
+            },
+            {
+              "x": 1528,
+              "y": 170,
+              "t": 1465312810783.0
+            },
+            {
+              "x": 1528,
+              "y": 144,
+              "t": 1465312810836.0
+            },
+            {
+              "x": 1515,
+              "y": 116,
+              "t": 1465312810887.0
+            },
+            {
+              "x": 1487,
+              "y": 81,
+              "t": 1465312810939.0
+            },
+            {
+              "x": 1435,
+              "y": 53,
+              "t": 1465312810990.0
+            },
+            {
+              "x": 1373,
+              "y": 43,
+              "t": 1465312811041.0
+            },
+            {
+              "x": 1332,
+              "y": 42,
+              "t": 1465312811092.0
+            },
+            {
+              "x": 1315,
+              "y": 45,
+              "t": 1465312811144.0
+            },
+            {
+              "x": 1310,
+              "y": 52,
+              "t": 1465312811179.0
+            },
+            {
+              "x": 1328,
+              "y": 84,
+              "t": 1465312811231.0
+            },
+            {
+              "x": 1398,
+              "y": 115,
+              "t": 1465312811281.0
+            },
+            {
+              "x": 1441,
+              "y": 116,
+              "t": 1465312811332.0
+            },
+            {
+              "x": 1449,
+              "y": 89,
+              "t": 1465312811383.0
+            },
+            {
+              "x": 1436,
+              "y": 63,
+              "t": 1465312811434.0
+            },
+            {
+              "x": 1410,
+              "y": 56,
+              "t": 1465312811484.0
+            },
+            {
+              "x": 1293,
+              "y": 106,
+              "t": 1465312811537.0
+            },
+            {
+              "x": 1196,
+              "y": 170,
+              "t": 1465312811588.0
+            },
+            {
+              "x": 1162,
+              "y": 240,
+              "t": 1465312811638.0
+            },
+            {
+              "x": 1160,
+              "y": 306,
+              "t": 1465312811673.0
+            },
+            {
+              "x": 1160,
+              "y": 632,
+              "t": 1465312812244.0
+            }
+          ]
+        },
+        {
+          "type": 7,
+          "time": 1465312812144,
+          "data": {
+            "x": 0.0,
+            "y": 326.0
+          }
+        },
+        {
+          "type": 7,
+          "time": 1465312812095,
+          "data": {
+            "x": 0.0,
+            "y": 236.0
+          }
+        },
+        {
+          "type": 7,
+          "time": 1465312812043,
+          "data": {
+            "x": 0.0,
+            "y": 165.0
+          }
+        },
+        {
+          "type": 7,
+          "time": 1465312811992,
+          "data": {
+            "x": 0.0,
+            "y": 72.0
+          }
+        },
+        {
+          "type": 7,
+          "time": 1465312811942,
+          "data": {
+            "x": 0.0,
+            "y": 4.0
+          }
+        },
+        {
+          "type": 9,
+          "time": 1465312810599,
+          "data": {
+            "active": true
+          }
+        },
+        {
+          "type": 9,
+          "time": 1465312810598,
+          "data": {
+            "active": true
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -19,6 +19,8 @@ render(
   document.getElementById('app')
 )
 
+
+// To test without react (server side):
 // console.log('window.devToolsExtension', window.devToolsExtension);
 
 // import { addTodo, toggleTodo, setVisibilityFilter, VisibilityFilters } from './actions';
