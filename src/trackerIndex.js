@@ -8,12 +8,16 @@ import trackerApp from './trackerReducers';
 import Rx from 'rxjs';
 // import App from './App';
 
+// module.exports.node = {
+//   child_process: 'empty'
+// }
+
+// import htmltojsx from 'htmltojsx';
+
 // let trakerStore = createStore(trackerApp);
 export const trakerStore = createStore(trackerApp, {},
     window.devToolsExtension && window.devToolsExtension()
 );
-
-
 
 // To test without react (server side):
 // console.log('window.devToolsExtension', window.devToolsExtension);
@@ -150,15 +154,15 @@ var mouseMoves = {
       "y": 632,
       "time": 1465312812244.0
     }
-  ]
-};
+  ]};
 
 var mouseMoves$ = Rx.Observable
 	.interval(100)
 	.take(mouseMoves.data.length)
 	.map(i => mouseMoves.data[i]);
 
-var scrollMoves = [{
+var scrollMoves = [
+        {
           "time": 1465312812144,
           "data": {
             "x": 0.0,

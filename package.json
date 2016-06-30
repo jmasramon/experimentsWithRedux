@@ -20,6 +20,9 @@
     "webpack-dev-server": "^1.14.1"
   },
   "dependencies": {
+    "fs": "0.0.2",
+    "html2hscript": "^2.0.1",
+    "htmltojsx": "^0.2.5",
     "react": "^15.1.0",
     "react-dom": "^15.1.0",
     "react-redux": "^4.4.5",
