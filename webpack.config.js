@@ -1,9 +1,11 @@
 module.exports = {
   entry: [
-    './src/trackerIndex.js'
+    // './src/trackerIndex.js'
+    './src/index.js'
   ],
   module: {
-    loaders: [{
+    loaders: [{ test: /\.json$/, loader: "json-loader" },
+    {
       test: /\.jsx?$/,
       exclude: /node_modules/,
       loader: 'babel'

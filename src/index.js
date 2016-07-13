@@ -2,20 +2,22 @@
 
 import React from 'react';
 import { render } from 'react-dom';
-import { Provider } from 'react-redux';
-import { createStore } from 'redux';
-import todoApp from './reducers';
-import App from './App';
+// import { Provider } from 'react-redux';
+// import { createStore } from 'redux';
+// import todoApp from './reducers';
+// import App from './App';
+import PlayerApp from './PlayerApp';
 
 // let store = createStore(todoApp);
-export const store = createStore(todoApp, {},
-    window.devToolsExtension && window.devToolsExtension()
-);
+// export const store = createStore(todoApp, {},
+//     window.devToolsExtension && window.devToolsExtension()
+// );
 
 render(
-  <Provider store={store}>
-    <App />
-  </Provider>,
+  // <Provider store={store}>
+  //   <App />
+  // </Provider>,
+  <PlayerApp />,
   document.getElementById('app')
 )
 
